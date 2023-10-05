@@ -1,0 +1,5 @@
+565723|Rick|Tisha|656-632-5532|Computer Science|09/31/2004|321 mass ave, Boston MA|2.1
+1354124|Mike|Hawk|123-456-7891|Reading|04/09/2000|345 tremont st, Boston MA 24562|3.5
+5224333|Sam |Santos|323-323-2323|Art|03/01/1990|2000 simple st, revere MA 02342|3.4
+533234|James|Tyu|232-424-4567|Art|04/05/2003|334 pine st, Boston MA|2.8
+7654321|Jack|Pide|232535|Comp SCi|08/08/2003|44 rich st, Boston, MA01033|2.0
