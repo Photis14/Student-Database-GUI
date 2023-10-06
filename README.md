@@ -42,7 +42,7 @@ Sets up the main sections of the GUI such as the input frames, update frames, de
 Also, places widgets like labels, entry boxes, and buttons on the frames.
 
 # Usage
-To add a student, fill in all the details in the "ADD NEW STUDENT" section and click "ADD STUDENT".
+To add a student, fill in all the details in the "ADD STUDENT" section and click "ADD STUDENT".
 To update a student's detail, input the student's ID and select the detail you want to update, then provide the new data and click the update button.
 To delete a student, input the student's ID in the "DELETE STUDENT" section and confirm the deletion.
 You can also filter the displayed students based on GPA or Date of Birth ranges.
